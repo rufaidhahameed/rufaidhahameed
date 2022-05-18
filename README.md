@@ -14,5 +14,14 @@ Want to discuss any of my projects, or something else? Send me a direct message 
 
 telescope I’m currently working on React.js next.js stack to build ecommerce shopping web app
 seedling I’m currently learning ... Object Oriented programming
-Fullstack Developer
-muscleJavascript   muscleTypescript   muscleReactmuscleNodeJS   muscleObject Oriented Programming   muscleData Structure
+<div align="center">
+
+  ### Fullstack Developer
+
+  <p>
+    <sup>💪</sup>Javascript&nbsp;&nbsp;&nbsp;<sup>💪</sup>Next.js&nbsp;&nbsp;&nbsp;<sup>💪</sup>React&nbsp;&nbsp;&nbsp;<sup>💪</sup>Vue&nbsp;&nbsp;&nbsp;<sup>💪</sup>NodeJS&nbsp;&nbsp;&nbsp;<sup>💪</sup>Object Oriented Programming&nbsp;&nbsp;&nbsp;<sup>💪</sup>Data Structure
+  </p>
+  
+  <p>🔗 <a href="http://merufaidhahameed.web.app">Portfolio</a></p></p>
+
+</div>
